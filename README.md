@@ -1,1 +1,3 @@
-# CarlsonC09.github.io
+# My first HTML project 
+
+Just a simple web design with my personal info
